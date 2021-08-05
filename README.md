@@ -1,13 +1,13 @@
 [![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Sunaif Adkar</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+<h3 align="center">A Noob trying to Figure-Out Stuff!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaif-adkar2&label=Profile%20views&color=129e00&style=plastic" alt="sunaif-adkar2" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
+- 👨‍💻 I'm not and programer just learning all follow and keep support
 
-- 📫 How to reach me **talktokhushboogoel@gmail.com**
+- 📫 How to reach me **https://t.me/sunaif_adkar**
 
 - ⚡ Fun fact **I think I am funny XD**
 
