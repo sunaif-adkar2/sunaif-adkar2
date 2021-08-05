@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sunaif Adkar</h1>
 <h3 align="center">A Noob trying to Make special!!</h3>
 
-- 👨‍💻 I'm not and programer just learning all follow and keep support
+- 👨‍💻 I'm not an programer just learning all follow and keep support
 
 - 📫 How to reach me **https://t.me/sunaif_adkar**
 
