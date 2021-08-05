@@ -1,6 +1,6 @@
-[![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://sunaif-adkar2.github.io)
+[![MasterHead](/profile-displaybackgroundimage-https://telegra.ph/file/5753f008d335d62d677a1.jpg)](https://sunaif-adkar2.github.io)
 <h1 align="center">Hi 👋, I'm Sunaif Adkar</h1>
-<h3 align="center">A Noob trying to Figure-Out Stuff!!</h3>
+<h3 align="center">A Noob trying to Make special!!</h3>
 
 - 👨‍💻 I'm not and programer just learning all follow and keep support
 
