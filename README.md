@@ -1,4 +1,7 @@
-[![MasterHead](profile-displaybackgroundimage-https://telegra.ph/file/5753f008d335d62d677a1.jpg)](https://sunaif-adkar2.github.com)
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/555d3c58204893763b839.jpg" width="200" height="200"/>
+
+
 <h1 align="center">Hi 👋, I'm Sunaif Adkar</h1>
 <h3 align="center">A Noob trying to Make special!!</h3>
 
