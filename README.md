@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/6bcbe74d64bcb7b7766fb.jpg" width="280" height="150"/>
+  <img border-radius: 15px src="https://telegra.ph/file/6bcbe74d64bcb7b7766fb.jpg" width="280" height="120"/>
 
 
 <h1 align="center">Hi 👋, I'm Sunaif Adkar</h1>
