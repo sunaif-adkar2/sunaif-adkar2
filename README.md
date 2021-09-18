@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Sunaif Adkar</h1>
 <h3 align="center">A Noob trying to Make special!!</h3>
-![Visitor Count](https://profile-counter.glitch.me/sunaif-adkar2/count.svg
+
+![Visitor Count](https://profile-counter.glitch.me/sunaif-adkar2/count.svg)
 
 - 👨‍💻 I'm not an programer just learning all follow and keep support
 
