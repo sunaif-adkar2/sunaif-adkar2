@@ -8,6 +8,13 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/sunaif-adkar2/count.svg)
 
+<p align="center">
+ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
+</p>
+<p align="center">
+<img width="50%" src="https://gpvc.arturio.dev/sunaif-adkar2" alt="Profile views" />
+</p>
+
 - 👨‍💻 I'm not an programer just learning all follow and keep support
 
 - 📫 How to reach me **https://t.me/sunaif_adkar**
