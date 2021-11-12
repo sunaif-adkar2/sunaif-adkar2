@@ -9,10 +9,10 @@
 ![Visitor Count](https://profile-counter.glitch.me/sunaif-adkar2/count.svg)
 
 <p align="center">
- 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
+ CHECKES FROM 12/NOV/2021 🧐
 </p>
 <p align="center">
-<img width="50%" src="https://gpvc.arturio.dev/sunaif-adkar2" alt="Profile views" />
+<img width="50%" src="https://gpvc.arturio.dev/sunaif-adkar2" alt="🌟 VIEW 🌟" />
 </p>
 
 - 👨‍💻 I'm not an programer just learning all follow and keep support
