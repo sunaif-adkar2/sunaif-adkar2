@@ -39,13 +39,8 @@
     </a>
   </p>
 
-  <!-- Animated GitHub Stats Badge -->
+  <!-- Randomly Generated GitHub Contribution Graph -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sunaif-adkar2&show_icons=true&count_private=true&hide=prs,issues&include_all_commits=true&theme=radical&custom_title=GitHub%20Stats" alt="Animated GitHub Stats" />
-  </p>
-
-  <!-- Animated Top Languages Badge -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunaif-adkar2&layout=compact&theme=radical&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://img.shields.io/github/commit-activity/w/sunaif-adkar2/sunaif-adkar2?style=for-the-badge&label=Contributions" alt="GitHub Contributions" />
   </p>
 </div>
