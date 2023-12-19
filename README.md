@@ -39,14 +39,13 @@
     </a>
   </p>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunaif-adkar2&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunaif-adkar2&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
   <!-- Animated GitHub Stats Badge -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sunaif-adkar2&show_icons=true&count_private=true&hide=prs,issues&include_all_commits=true&theme=radical&animate=true" alt="Animated GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sunaif-adkar2&show_icons=true&count_private=true&hide=prs,issues&include_all_commits=true&theme=radical&custom_title=GitHub%20Stats" alt="Animated GitHub Stats" />
   </p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunaif-adkar2&theme=light" alt="GitHub Streak" /></p>
+  <!-- Animated Top Languages Badge -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunaif-adkar2&layout=compact&theme=radical&custom_title=Top%20Languages" alt="Top Languages" />
+  </p>
 </div>
