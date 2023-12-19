@@ -1,35 +1,52 @@
-# 👋 Hello, I'm Muhammad Sunaif Adkar
+<div align="center">
+  <img src="https://telegra.ph/file/4d3c24973e0bbd0a7ba16.jpg" width="300" height="95" style="border-radius: 15px"/>
 
-## About Me
+  <h1 align="center">Hi 👋, I'm Sunaif Adkar</h1>
+  <h3 align="center">A passionate learner and aspiring developer</h3>
 
-I'm a passionate Occupational Therapy student in the Paramedical field with a deep love for coding and web development. I enjoy creating applications and designing websites using a variety of technologies, including Java, Python, PHP, and HTML.
+  ![Visitor Count](https://profile-counter.glitch.me/sunaif-adkar2/count.svg)
 
-## 💻 Technologies & Tools
+  <p align="center">
+    📅 Joined GitHub on 12/Nov/2021
+  </p>
 
-- Java
-- Python
-- PHP
-- HTML/CSS
-- [Add more technologies as applicable]
+  <p align="center">
+    <img width="50%" src="https://gpvc.arturio.dev/sunaif-adkar2" alt="Profile Views" />
+  </p>
 
-## 🚀 Projects
+  <p align="center">
+    👨‍💻 I'm a student in the Paramedical field with a keen interest in coding and web development.
+  </p>
 
-Here are some of the projects I'm proud of:
+  <p align="center">
+    🌐 Connect with me: [Telegram](https://t.me/sunaif_adkar) | [Twitter](https://twitter.com/SunaifN?s=09) | [YouTube](https://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA)
+  </p>
 
-1. [Project 1 Name](Link to Project 1)
-   - Brief description
+  <p align="center">
+    ⚡ Fun fact: Laughter is the best medicine! 😄
+  </p>
 
-2. [Project 2 Name](Link to Project 2)
-   - Brief description
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="center"> 
+    <a href="https://www.python.org" target="_blank"> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://developer.android.com" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+    </a> 
+    <a href="https://cloud.google.com" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+    </a>
+  </p>
 
-## 🌱 I'm Currently Learning
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunaif-adkar2&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-- [List any technologies or skills you're currently learning]
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunaif-adkar2&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-## 📫 Let's Connect
+  <!-- Animated GitHub Stats Badge -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sunaif-adkar2&show_icons=true&count_private=true&hide=prs,issues&include_all_commits=true&theme=radical&animate=true" alt="Animated GitHub Stats" />
+  </p>
 
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [Personal Website/Blog](Your Website URL)
-
-Feel free to explore my repositories and connect with me. I'm always open to collaboration and learning from fellow developers!
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunaif-adkar2&theme=light" alt="GitHub Streak" /></p>
+</div>
